@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8F8E43A4-525A-42DE-9AAF-699A517941CF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B79C99F8-8396-4E2D-9C35-9DC23F11E9C9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "swift_6_task/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B79C99F8-8396-4E2D-9C35-9DC23F11E9C9 - b91449e08c79a56c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "swift_6_task.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "swift_6_task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omar/Documents/xCodeProjects/swift_6_task/swift_6_task/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "B79C99F8-8396-4E2D-9C35-9DC23F11E9C9 - fe9a7e74b67cee93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;swift_6_task.Result&gt;) -&gt; () in swift_6_task.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "swift_6_task"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omar/Documents/xCodeProjects/swift_6_task/swift_6_task/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
