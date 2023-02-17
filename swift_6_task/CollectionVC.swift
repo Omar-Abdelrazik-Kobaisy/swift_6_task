@@ -48,15 +48,6 @@ class CollectionVC: UICollectionViewController , UICollectionViewDelegateFlowLay
         let task = session.dataTask(with: req) { data, response, error in
             do
             {
-//                let dic = try JSONSerialization.jsonObject(with: data!,options: .fragmentsAllowed) as! Dictionary<String,Any>
-//
-//                let items_arr = dic["items"] as! [Dictionary<String,Any>]
-//
-//                let items_dic = items_arr[0] as! Dictionary<String,Any>
-//
-//                let title = items_dic["title"] as! String
-//
-//                print(title)
                 let res = try JSONDecoder().decode(Result.self, from: data!)
                 complition(res)
                 
