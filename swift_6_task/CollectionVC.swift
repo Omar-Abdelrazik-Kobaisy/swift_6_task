@@ -118,7 +118,7 @@ class CollectionVC: UICollectionViewController , UICollectionViewDelegateFlowLay
 
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAt indexPath: IndexPath) -> CGSize {
         //        return CGSize(width: 180, height: 150)
-        return CGSize(width: UIScreen.main.bounds.width/2.08, height: 150)
+        return CGSize(width: UIScreen.main.bounds.width/2.08, height: 130)
     }
     
 //    override func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
